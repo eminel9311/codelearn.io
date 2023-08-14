@@ -1,0 +1,3 @@
+- Lặp từ 2 đến n kiểm tra xem nếu n chia hết cho bất kỳ 1 số nào trong khoảng đó thì trả về kết quả false còn lại trả về kết quả true.
+- Có thể không cần lặp từ đến n - 1 bởi vì nhận thấy rằng một số nguyên n > 1 không phải là một số nguyên tố khi và chỉ khi n có thể biểu diễn dưới dạng : n = x * y, với x,y là hai số nguyên dương lớn hơn 1.
+  +, Giả sử x <= y -> x * x < x * y = n -> x^2 < n ->  x ≤ √n
