@@ -1,0 +1,1 @@
+- thực hiện lặp và chia cho 10, nhớ là chỉ giữ lại 2 số cuối cùng
